@@ -1,6 +1,3 @@
-Aquí tienes el texto transformado a formato Markdown (`.md`) para un perfil de GitHub:
-
-```markdown
 # Jorge Leonardo Núñez - Full Stack Developer
 
 📍 **Ubicación:** Bogotá, Distrito Capital, Colombia
@@ -11,7 +8,7 @@ Aquí tienes el texto transformado a formato Markdown (`.md`) para un perfil de 
 
 ## 👨‍💻 Resumen Profesional
 
-Soy un **Full Stack Developer** con más de 7 años de experiencia, especializado en la creación de soluciones tecnológicas desde la fase de análisis hasta la entrega final y el mantenimiento. A lo largo de mi carrera, he trabajado con tecnologías como `Node.js`, `Express.js`, `React.js`, `Vue.js`, `PHP Laravel`, `MySQL`, `SQL Server`, y `PostgreSQL`. Además, he liderado el desarrollo de **APIs**, integración con plataformas en la nube (**AWS**, **Azure**), y personalización de sistemas educativos como **Moodle**.
+Soy un **Full Stack Developer** con más de 8 años de experiencia, especializado en la creación de soluciones tecnológicas desde la fase de análisis hasta la entrega final y el mantenimiento. A lo largo de mi carrera, he trabajado con tecnologías como `Node.js`, `Express.js`, `React.js`, `Vue.js`, `PHP Laravel`, `MySQL`, `SQL Server`, y `PostgreSQL`. Además, he liderado el desarrollo de **APIs**, integración con plataformas en la nube (**AWS**, **Azure**), y personalización de sistemas educativos como **Moodle**.
 
 Mis habilidades también abarcan la creación de soluciones escalables, optimización de plataformas, y la formación de equipos multidisciplinarios. Me enfoco en superar las expectativas del cliente mediante soluciones innovadoras y de alto rendimiento.
 
@@ -46,4 +43,3 @@ Estoy comprometido con el **aprendizaje continuo** y me esfuerzo por mantenerme 
 ## 🚀 Conéctemos
 
 ¡Si estás interesado en colaborar, no dudes en contactarme a través de mi [correo electrónico](mailto:perseverancia478@gmail.com) o [LinkedIn](https://linkedin.com/in/jorgenunez478)!
-```
