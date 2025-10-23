@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Resumen Profesional
 
-Soy un **Full Stack Developer** con más de 8 años de experiencia, especializado en la creación de soluciones tecnológicas desde la fase de análisis hasta la entrega final y el mantenimiento. A lo largo de mi carrera, he trabajado con tecnologías como `Node.js`, `Express.js`, `React.js`, `Vue.js`, `PHP Laravel`, `MySQL`, `SQL Server`, y `PostgreSQL`. Además, he liderado el desarrollo de **APIs**, integración con plataformas en la nube (**AWS**, **Azure**), y personalización de sistemas educativos como **Moodle**.
+Soy un **Full Stack Developer** con más de 8 años de experiencia, especializado en la creación de soluciones tecnológicas desde la fase de análisis hasta la entrega final y el mantenimiento. A lo largo de mi carrera, he trabajado con tecnologías como `Node.js`, `Express.js`, `React.js`, `Vue.js`, `PHP Laravel`, `MySQL`, `SQL Server`, `Mongo DB`, y `PostgreSQL`. Además, he liderado el desarrollo de **APIs**, integración con plataformas en la nube (**AWS**, **Azure**), y personalización de sistemas educativos como **Moodle**.
 
 Mis habilidades también abarcan la creación de soluciones escalables, optimización de plataformas, y la formación de equipos multidisciplinarios. Me enfoco en superar las expectativas del cliente mediante soluciones innovadoras y de alto rendimiento.
 
@@ -16,10 +16,10 @@ Mis habilidades también abarcan la creación de soluciones escalables, optimiza
 
 ## Habilidades Técnicas
 
-* **Lenguajes y Frameworks:** `Node.js`, `Express.js`, `React.js`, `Vue.js`, `PHP Laravel`, `JavaScript (ES6+)`
-* **Bases de Datos:** `MySQL`, `PostgreSQL`, `SQL Server`
+* **Lenguajes y Frameworks:** `Node.js`, `Express.js`, `React.js`, `Angular`, `Vue.js`, `PHP Laravel`, `typescript`, `Artisan`,
+* **Bases de Datos:** `MySQL`, `PostgreSQL`, `SQL Server`, `Mongo DB`
 * **Plataformas en la Nube:** `AWS (S3)`, `Azure (SharePoint)`
-* **Desarrollo y Personalización:** `Moodle`, `APIs SOAP`, `Power BI`
+* **Desarrollo y Personalización:** `Moodle`, `APIs SOAP`, `Power BI`, `Moodle`
 * **Metodologías:** `Agile`, `Scrum`
 
 ---
@@ -27,10 +27,10 @@ Mis habilidades también abarcan la creación de soluciones escalables, optimiza
 ## 🛠️ Tecnologías y Herramientas
 
 * **Backend:** `Node.js`, `Express.js`, `PHP Laravel`
-* **Frontend:** `React.js`, `Vue.js`, `HTML`, `CSS`, `JavaScript (ES6+)`
+* **Frontend:** `React.js`, `Vue.js`, `Angular`, `HTML`, `CSS`, `JavaScript (ES6+)`
 * **Bases de Datos:** `MySQL`, `PostgreSQL`, `SQL Server`, `NoSQL`
 * **DevOps/Cloud:** `AWS (S3)`, `Azure (SharePoint)`, `Docker`
-* **Herramientas de Desarrollo:** `Git`, `GitHub`, `Jira`, `VSCode`
+* **Herramientas de Desarrollo:** `Git`, `GitHub`, `Jira`, `VSCode`, `Azure DevOps`
 
 ---
 
